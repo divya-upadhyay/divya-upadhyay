@@ -3,7 +3,7 @@
 I am a Data Science Enthusiast & Educator with almost 10 Years of Experience trying to become a better scientist. My areas of interest have been advanced analytics, machine learning, and consulting across diverse sectors including airlines, entertainment, and retail.
 
 I work on:
-- 📈 Build data-driven solutions to business problems
+- 📈 Building data-driven solutions to business problems
 - 🚀 Developing scalable data-science for production environments
 - 📝 Mentoring early-career data professionals and students
 - 🌎 Fostering team collaboration and harmony
