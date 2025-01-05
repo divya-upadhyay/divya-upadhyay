@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**divya-upadhyay/divya-upadhyay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Science Enthusiast & Educator with almost 10 Years of Experience trying to become a better scientist. My areas of interest have been advanced analytics, machine learning, and consulting across diverse sectors including airlines, entertainment, and retail.
 
-Here are some ideas to get you started:
+I work on:
+- 📈 Build data-driven solutions to business problems
+- 🚀 Developing scalable data-science for production environments
+- 📝 Mentoring early-career data professionals and students
+- 🌎 Fostering team collaboration and harmony
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have dablled with:
+- Machine Learning • Statistical & Time Series Analysis • Data Mining & Visualization
+- Python • R • SQL • Hadoop • Hive • Tableau • Apache Oozie • JIRA
+- Public Speaking • Business Writing • Project Management
+
+Fun stuff:
+- 🔭 I’m currently working on retail data science for Target.
+- 🌱 I’m currently learning new python packages, Github CoPilot, how to be a better buiness writer and speaker. 
+- 👯 I’m looking to collaborate on anything above..
+- 💬 Ask me about data science in retail.
+- 📫 How to reach me: my Linkedin [https://www.linkedin.com/in/upadhyaydivya/](https://www.linkedin.com/in/upadhyaydivya/)
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I think I am funny, my dog agrees but my husband doesn't.
