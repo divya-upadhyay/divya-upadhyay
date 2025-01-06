@@ -16,8 +16,7 @@ I have dablled with:
 Fun stuff:
 - 🔭 I’m currently working on retail data science for Target.
 - 🌱 I’m currently learning new python packages, Github CoPilot, how to be a better buiness writer and speaker. 
-- 👯 I’m looking to collaborate on anything above..
 - 💬 Ask me about data science in retail.
 - 📫 How to reach me: my Linkedin [https://www.linkedin.com/in/upadhyaydivya/](https://www.linkedin.com/in/upadhyaydivya/)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I think I am funny, my dog agrees but my husband doesn't.
+- ⚡ Fun fact: I think I am funny, my Australina Shepherd dog agrees but my husband doesn't.
