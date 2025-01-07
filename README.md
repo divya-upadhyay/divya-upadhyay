@@ -21,4 +21,3 @@ I am a Data Science Enthusiast & Educator with almost 10 Years of Experience try
 
 #### Connect With Me
 - 👥 LinkedIn: [upadhyaydivya](https://www.linkedin.com/in/upadhyaydivya/)
-- 😄 Pronouns: she/her
