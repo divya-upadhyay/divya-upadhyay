@@ -15,7 +15,7 @@ I have dablled with:
 
 Fun stuff:
 - 🔭 I’m currently working on retail data science for Target.
-- 🌱 I’m currently learning new python packages, Github CoPilot, how to be a better buiness writer and speaker. 
+- 🌱 I’m currently learning new python packages, Github CoPilot, how to be a better business writer and speaker. 
 - 💬 Ask me about data science in retail.
 - 📫 How to reach me: my Linkedin [https://www.linkedin.com/in/upadhyaydivya/](https://www.linkedin.com/in/upadhyaydivya/)
 - 😄 Pronouns: she/her
