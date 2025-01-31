@@ -7,7 +7,6 @@ I am a Data Science Enthusiast & Educator with almost 10 Years of Experience try
 - 📊 Building data-driven solutions to business problems
 - 🚀 Developing scalable data-science for production environments
 - 👨‍🏫 Mentoring early-career data professionals and students
-- 🌍 Fostering team collaboration and harmony
 
 #### Technical Skills
 - Machine Learning • Statistical & Time Series Analysis • Data Mining & Visualization
